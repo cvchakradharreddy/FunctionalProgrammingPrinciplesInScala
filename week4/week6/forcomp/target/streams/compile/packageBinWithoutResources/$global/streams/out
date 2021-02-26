@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/progfun1-forcomp-without-resources_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/AnagramsInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/AnagramsInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/Test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Test$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/Test$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Anagrams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/Anagrams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Dictionary$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/Dictionary$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Anagrams$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/Anagrams$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	forcomp/Dictionary.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kickass/coursera/Functional Programming Scala/week6/forcomp/target/scala-2.13/classes/forcomp/Dictionary.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
